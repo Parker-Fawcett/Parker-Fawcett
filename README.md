@@ -20,3 +20,4 @@ Mostly Python and TypeScript. React and Next.js on the front end, Postgres and D
 ## Elsewhere
 
 https://www.parkerfawcett.com
+Skora: https://skoraadmit.com — AI college counseling platform (live product, repo private)
