@@ -1,12 +1,35 @@
 # Parker Fawcett
 
-Building on the Model Context Protocol ecosystem. Python · TypeScript · Kotlin.
+**AI Researcher · Software Builder · Entrepreneur**
 
-- 🔧 [rebuild-dossier](https://github.com/Parker-Fawcett/rebuild-dossier) — MCP server that reverse-engineers a locked rebuild spec (CLAUDE.md, `.claude/`, tests) from any running site
-- 🤝 Contributor: [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) — JSON-RPC dispatcher & transport reliability fixes
-- 🛒 [catchandtrade](https://github.com/Parker-Fawcett/catchandtrade) — trading card marketplace, live at [catchandtrade.com](https://catchandtrade.com)
-- 🌐 [Parkerfawcett.com](https://parkerfawcett.com)
+I build AI infrastructure, developer tools, and software products.
 
-<!--
-TODO after first MCP SDK PR merges: add merged-PR links here.
--->
+### Currently
+
+🔬 Researching AI systems and evaluation  
+🛠️ Building open-source developer infrastructure  
+🚀 Building and experimenting with software products
+
+### Featured Work
+
+🔬 **[Rebuild-Dossier](https://github.com/Parker-Fawcett/rebuild-dossier)**  
+Open-source infrastructure for evaluating and constraining AI systems.
+
+🛒 **[CatchAndTrade](https://github.com/Parker-Fawcett/catchandtrade)**  
+Full-stack trading card marketplace and portfolio platform — live at [catchandtrade.com](https://catchandtrade.com).
+
+🧪 **[Totally-Normal](https://github.com/Parker-Fawcett/Totally-Normal)**  
+A website implemented entirely in Whitespace.
+
+### Research
+
+📄 **Rebuild-Dossier** — [![DOI](https://zenodo.org/badge/1308271634.svg)](https://doi.org/10.5281/zenodo.22036801) [Zenodo](https://doi.org/10.5281/zenodo.22036801)  
+🔗 [Website](https://www.parkerfawcett.com)
+
+### Technologies
+
+Python · TypeScript · JavaScript · Kotlin · React · Next.js · PostgreSQL · Docker
+
+### Connect
+
+🌐 [parkerfawcett.com](https://www.parkerfawcett.com)
