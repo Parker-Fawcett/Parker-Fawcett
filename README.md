@@ -1,35 +1,22 @@
 # Parker Fawcett
 
-**AI Researcher · Software Builder · Entrepreneur**
+I'm Parker. I work on AI systems and the tooling around them, plus a few small products. Most of my time right now is on evaluation, how you tell whether an AI system actually does what you claim, and on open source infrastructure that makes that check reproducible.
 
-I build AI infrastructure, developer tools, and software products.
+## Featured work
 
-### Currently
+Rebuild-Dossier: https://github.com/Parker-Fawcett/rebuild-dossier
+A tool that reverse engineers a rebuild spec from a running app. It generates a locked CLAUDE.md and tests you can run to see if a rebuild matches the original. DOI: https://doi.org/10.5281/zenodo.22036801
 
-🔬 Researching AI systems and evaluation  
-🛠️ Building open-source developer infrastructure  
-🚀 Building and experimenting with software products
+CatchAndTrade: https://github.com/Parker-Fawcett/catchandtrade (live at https://catchandtrade.com)
+Trading card marketplace and portfolio. Full stack, TypeScript monorepo.
 
-### Featured Work
+Totally-Normal: https://github.com/Parker-Fawcett/Totally-Normal
+A site built entirely in Whitespace. The source file has no visible characters.
 
-🔬 **[Rebuild-Dossier](https://github.com/Parker-Fawcett/rebuild-dossier)**  
-Open-source infrastructure for evaluating and constraining AI systems.
+## How I build
 
-🛒 **[CatchAndTrade](https://github.com/Parker-Fawcett/catchandtrade)**  
-Full-stack trading card marketplace and portfolio platform — live at [catchandtrade.com](https://catchandtrade.com).
+Mostly Python and TypeScript. React and Next.js on the front end, Postgres and Docker underneath. I've also used Kotlin and JavaScript a lot.
 
-🧪 **[Totally-Normal](https://github.com/Parker-Fawcett/Totally-Normal)**  
-A website implemented entirely in Whitespace.
+## Elsewhere
 
-### Research
-
-📄 **Rebuild-Dossier** — [![DOI](https://zenodo.org/badge/1308271634.svg)](https://doi.org/10.5281/zenodo.22036801) [Zenodo](https://doi.org/10.5281/zenodo.22036801)  
-🔗 [Website](https://www.parkerfawcett.com)
-
-### Technologies
-
-Python · TypeScript · JavaScript · Kotlin · React · Next.js · PostgreSQL · Docker
-
-### Connect
-
-🌐 [parkerfawcett.com](https://www.parkerfawcett.com)
+https://www.parkerfawcett.com
