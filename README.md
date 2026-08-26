@@ -5,7 +5,8 @@ I'm Parker. I work on AI systems and the tooling around them, plus a few small p
 ## Featured work
 
 Rebuild-Dossier: https://github.com/Parker-Fawcett/rebuild-dossier
-A tool that reverse engineers a rebuild spec from a running app. It generates a locked CLAUDE.md and tests you can run to see if a rebuild matches the original. DOI: https://doi.org/10.5281/zenodo.22036801
+A tool that reverse engineers a rebuild spec from a running app. It generates a locked CLAUDE.md and tests you can run to see if a rebuild matches the original.
+Paper: https://arxiv.org/abs/2608.23616 | DOI: https://doi.org/10.5281/zenodo.22036801
 
 CatchAndTrade: https://github.com/Parker-Fawcett/catchandtrade (live at https://catchandtrade.com)
 Trading card marketplace and portfolio. Full stack, TypeScript monorepo.
