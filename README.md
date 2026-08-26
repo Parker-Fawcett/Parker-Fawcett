@@ -21,4 +21,5 @@ Mostly Python and TypeScript. React and Next.js on the front end, Postgres and D
 ## Elsewhere
 
 https://www.parkerfawcett.com
+ORCID: https://orcid.org/0009-0003-9699-7422
 Skora: https://skoraadmit.com — AI college counseling platform (live product, repo private)
