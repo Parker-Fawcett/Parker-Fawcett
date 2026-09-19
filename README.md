@@ -1,12 +1,19 @@
 # Parker Fawcett
 
-I'm Parker. I work on AI systems and the tooling around them, plus a few small products. Most of my time right now is on evaluation, how you tell whether an AI system actually does what you claim, and on open source infrastructure that makes that check reproducible.
+I'm Parker. I run a small lab with one rule: publish the red ink too. Every project here keeps score honestly, passes and failures alike. Most of my time goes to AI evaluation, how you tell whether a system does what you claim, and to open-source infrastructure that makes that check reproducible.
 
-## Featured work
+## Research
 
 Rebuild-Dossier: https://github.com/Parker-Fawcett/rebuild-dossier
 A tool that reverse engineers a rebuild spec from a running app. It generates a locked CLAUDE.md and tests you can run to see if a rebuild matches the original.
 Paper: https://arxiv.org/abs/2608.23616 | DOI: https://doi.org/10.5281/zenodo.22036801 | SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468682
+
+Stock audit lab: a private quant lab auditing a community-documented AI stock predictor with its methodology intact. Every strategy runs against monkey baselines and sealed holdouts, and every failure stays on the record. Manuscript in progress. The repo goes public on acceptance.
+
+## Products
+
+Keepsake: https://github.com/Parker-Fawcett/Keepsake
+A relationship-aware notes app. Paste or speak messy notes and it organizes the people, dates, memories, and reminders inside them. Express, Postgres, Docker.
 
 CatchAndTrade: https://github.com/Parker-Fawcett/catchandtrade (live at https://catchandtrade.com)
 Trading card marketplace and portfolio. Full stack, TypeScript monorepo.
