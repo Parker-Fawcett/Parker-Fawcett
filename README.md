@@ -2,6 +2,12 @@
 
 I'm Parker. I run a small lab with one rule: publish the red ink too. Every project here keeps score honestly, passes and failures alike. Most of my time goes to AI evaluation, how you tell whether a system does what you claim, and to open-source infrastructure that makes that check reproducible.
 
+## Selected engineering work
+
+- **AI Skills Engineer — CHG Healthcare.** Build enterprise MCP tooling and agent workflows, including automated validation and developer tooling.
+- **Rebuild Dossier — coding-agent evaluation research.** In a deliberately constructed control, an HTTP-200 stub passed **20/20 visible and 12/12 held-out test files** but matched **0/77 checks** in a separate, author-written behavioral fidelity oracle. [Reproduce the baseline](https://github.com/Parker-Fawcett/rebuild-dossier/tree/main/evidence/baselines/constant-200) · [Scoring protocol and limits](https://github.com/Parker-Fawcett/rebuild-dossier/blob/main/evidence/fidelity-oracle/PROTOCOL.md)
+- **OpenClaw — three merged upstream fixes.** [Clamp Responses output tokens](https://github.com/openclaw/openclaw/pull/128282) · [Preserve tool-result whitespace](https://github.com/openclaw/openclaw/pull/128266) · [Prevent duplicate Telegram progress output](https://github.com/openclaw/openclaw/pull/128259)
+
 ## Research
 
 Rebuild-Dossier: https://github.com/Parker-Fawcett/rebuild-dossier
