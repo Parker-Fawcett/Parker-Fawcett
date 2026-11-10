@@ -4,28 +4,25 @@ I'm Parker. I run a small lab with one rule: publish the red ink too. Every proj
 
 ## Selected engineering work
 
-- **AI Skills Engineer — CHG Healthcare.** Build enterprise MCP tooling and agent workflows, including automated validation and developer tooling.
-- **Rebuild Dossier — coding-agent evaluation research.** In a deliberately constructed control, an HTTP-200 stub passed **20/20 visible and 12/12 held-out test files** but matched **0/77 checks** in a separate, author-written behavioral fidelity oracle. [Reproduce the baseline](https://github.com/Parker-Fawcett/rebuild-dossier/tree/main/evidence/baselines/constant-200) · [Scoring protocol and limits](https://github.com/Parker-Fawcett/rebuild-dossier/blob/main/evidence/fidelity-oracle/PROTOCOL.md)
-- **OpenClaw — three merged upstream fixes.** [Clamp Responses output tokens](https://github.com/openclaw/openclaw/pull/128282) · [Preserve tool-result whitespace](https://github.com/openclaw/openclaw/pull/128266) · [Prevent duplicate Telegram progress output](https://github.com/openclaw/openclaw/pull/128259)
+- **AI Skills Engineer, CHG Healthcare.** Build enterprise MCP tooling and agent workflows, including automated validation and developer tooling.
+- **Rebuild Dossier, coding-agent evaluation research.** In a deliberately constructed control, an HTTP-200 stub passed **20/20 visible and 12/12 held-out test files** but matched **0/77 checks** in a separate, author-written behavioral fidelity oracle. [Reproduce the baseline](https://github.com/Parker-Fawcett/rebuild-dossier/tree/main/evidence/baselines/constant-200) · [Scoring protocol and limits](https://github.com/Parker-Fawcett/rebuild-dossier/blob/main/evidence/fidelity-oracle/PROTOCOL.md)
+- **OpenClaw, three merged upstream fixes.** [Clamp Responses output tokens](https://github.com/openclaw/openclaw/pull/128282) · [Preserve tool-result whitespace](https://github.com/openclaw/openclaw/pull/128266) · [Prevent duplicate Telegram progress output](https://github.com/openclaw/openclaw/pull/128259)
 
 ## Research
 
-Rebuild-Dossier: https://github.com/Parker-Fawcett/rebuild-dossier
-A tool that reverse engineers a rebuild spec from a running app. It generates a locked CLAUDE.md and tests you can run to see if a rebuild matches the original.
-Paper: https://arxiv.org/abs/2608.23616 | DOI: https://doi.org/10.5281/zenodo.22036801 | SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468682
+**Rebuild Dossier** ([repo](https://github.com/Parker-Fawcett/rebuild-dossier) · [arXiv:2608.23616](https://arxiv.org/abs/2608.23616) · [DOI](https://doi.org/10.5281/zenodo.22036801) · [SSRN 7468682](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468682)) reverse engineers a rebuild spec from a running app. It generates a locked CLAUDE.md and tests you can run to see if a rebuild matches the original. It ships as `rebuild-dossier` on npm and as `com.parkerfawcett/rebuild-dossier` in the official MCP Registry.
 
-Stock audit lab: a private quant lab auditing a community-documented AI stock predictor with its methodology intact. Every strategy runs against monkey baselines and sealed holdouts, and every failure stays on the record. Manuscript in progress. The repo goes public on acceptance.
+**Stock audit lab** ([repo](https://github.com/Parker-Fawcett/Stock)) audits a community-documented AI stock predictor with its methodology intact. Every strategy runs against monkey baselines and sealed holdouts, and every failure stays on the record. Working paper: [When AUC Survives but Portfolios Do Not](https://github.com/Parker-Fawcett/Stock/blob/main/PAPER.md). The maintained verdict is a promising momentum result that is not ready for real capital.
 
 ## Products
 
-Keepsake: https://github.com/Parker-Fawcett/Keepsake
-A relationship-aware notes app. Paste or speak messy notes and it organizes the people, dates, memories, and reminders inside them. Express, Postgres, Docker.
+**Keepsake** ([repo](https://github.com/Parker-Fawcett/Keepsake)) is a relationship-aware notes app. Paste or speak messy notes and it organizes the people, dates, memories, and reminders inside them. Express, Postgres, Docker.
 
-CatchAndTrade: https://github.com/Parker-Fawcett/catchandtrade (live at https://catchandtrade.com)
-Trading card marketplace and portfolio. Full stack, TypeScript monorepo.
+**CatchAndTrade** ([repo](https://github.com/Parker-Fawcett/catchandtrade), [live](https://catchandtrade.com)) is a trading card marketplace and portfolio. Full stack, TypeScript monorepo.
 
-Totally-Normal: https://github.com/Parker-Fawcett/Totally-Normal
-A site built entirely in Whitespace. The source file has no visible characters.
+**Scent Census** ([repo](https://github.com/Parker-Fawcett/Scent-Census)) reads your fragrance shelf, respects what you refuse to smell, and shows what to add next within a budget. It also runs a public census on how close clones smell.
+
+**Totally-Normal** ([repo](https://github.com/Parker-Fawcett/Totally-Normal)) is a site built entirely in Whitespace. The source file has no visible characters.
 
 ## How I build
 
